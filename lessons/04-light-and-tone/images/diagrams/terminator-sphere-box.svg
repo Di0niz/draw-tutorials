@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" width="700" height="400">
-  <rect width="700" height="400" fill="#ffffff"/>
-
-  <!-- light: upper left, 45 degrees, the same source on every sheet of the lesson -->
+    <!-- light: upper left, 45 degrees, the same source on every sheet of the lesson -->
   <g stroke="#b4530a" stroke-width="2.2" fill="none" stroke-linecap="round">
     <line x1="52" y1="48" x2="122" y2="118"/>
     <path d="M100 118 L122 118 L122 96"/>
@@ -24,12 +22,19 @@
 
   <!-- shadow side: arcs across the form, thinning out toward the outer contour -->
   <g fill="none" stroke="#9aa0a6" stroke-width="1.4" stroke-linecap="round">
-    <path d="M152 282 A 90 34 -45 0 0 184 268 M219 239 A 90 34 -45 0 0 248 204"/>
+    <path d="M151 281 A 90 30 -45 0 0 182 265 M216 236 A 90 30 -45 0 0 245 202"/>
+    <path d="M184 268 A 90 34 -45 0 0 219 239 M248 204 A 90 34 -45 0 0 262 172"/>
+    <path d="M153 283 A 90 37 -45 0 0 186 269 M221 241 A 90 37 -45 0 0 249 206"/>
     <path d="M188 272 A 90 41 -45 0 0 224 244 M252 208 A 90 41 -45 0 0 265 174"/>
-    <path d="M157 287 A 90 48 -45 0 0 193 276 M229 249 A 90 48 -45 0 0 256 213"/>
+    <path d="M155 286 A 90 44 -45 0 0 190 274 M226 246 A 90 44 -45 0 0 254 210"/>
+    <path d="M193 276 A 90 48 -45 0 0 229 249 M256 213 A 90 48 -45 0 0 267 177"/>
+    <path d="M158 288 A 90 51 -45 0 0 194 278 M231 251 A 90 51 -45 0 0 258 214"/>
     <path d="M197 281 A 90 55 -45 0 0 234 254 M261 217 A 90 55 -45 0 0 270 179"/>
-    <path d="M162 292 A 90 62 -45 0 0 201 285 M239 259 A 90 62 -45 0 0 265 221"/>
+    <path d="M160 291 A 90 58 -45 0 0 199 282 M236 256 A 90 58 -45 0 0 262 219"/>
+    <path d="M201 285 A 90 62 -45 0 0 239 259 M265 221 A 90 62 -45 0 0 272 182"/>
+    <path d="M163 293 A 90 65 -45 0 0 203 287 M241 261 A 90 65 -45 0 0 267 223"/>
     <path d="M206 289 A 90 69 -45 0 0 244 264 M269 226 A 90 69 -45 0 0 275 205"/>
+    <path d="M186 296 A 90 72 -45 0 0 207 291 M246 266 A 90 72 -45 0 0 271 227"/>
     <path d="M188 298 A 90 76 -45 0 0 249 269"/>
   </g>
 

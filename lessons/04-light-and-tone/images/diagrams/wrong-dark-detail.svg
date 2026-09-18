@@ -1,0 +1,21 @@
+<svg width="320" height="430" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 430" font-family="Inter, sans-serif">
+  <defs>
+    <pattern id="wd-hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(38)">
+      <line x1="0" y1="0" x2="0" y2="7" stroke="#9aa0a6" stroke-width="3"/>
+    </pattern>
+  </defs>
+
+  <path d="M160 84 A30 96 0 0 1 160 276 A96 96 0 0 0 160 84 Z" fill="url(#wd-hatch)"/>
+  <circle cx="160" cy="180" r="96" fill="none" stroke="#1f2328" stroke-width="2.6"/>
+
+  <ellipse cx="116" cy="162" rx="17" ry="14" fill="#1f2328"/>
+
+  <path d="M116 190 L116 300" stroke="#b91c1c" stroke-width="1.6" stroke-dasharray="5 5"/>
+  <text x="160" y="322" font-size="12" fill="#b91c1c" text-anchor="middle">деталь — самое тёмное пятно листа</text>
+
+  <g font-size="12" fill="#6b7280">
+    <text x="160" y="354" text-anchor="middle">она стоит на светлой стороне и темнее,</text>
+    <text x="160" y="372" text-anchor="middle">чем собственная тень формы</text>
+    <text x="160" y="400" text-anchor="middle">глаз цепляется за пятно, а не за объём</text>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg width="320" height="430" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 430" font-family="Inter, sans-serif">
+  <defs>
+    <marker id="rf-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#b4530a"/>
+    </marker>
+    <pattern id="rf-hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(38)">
+      <line x1="0" y1="0" x2="0" y2="7" stroke="#9aa0a6" stroke-width="3"/>
+    </pattern>
+  </defs>
+
+  <path d="M32 40 L74 82" stroke="#b4530a" stroke-width="2.2" marker-end="url(#rf-arrow)"/>
+  <text x="26" y="32" font-size="12" fill="#b4530a">свет</text>
+
+  <path d="M160 84 A30 96 0 0 1 160 276 A96 96 0 0 0 160 84 Z" fill="url(#rf-hatch)"/>
+  <path d="M212 250 A78 78 0 0 0 232 206" fill="none" stroke="#e0dacd" stroke-width="7" stroke-linecap="round"/>
+
+  <circle cx="160" cy="180" r="96" fill="none" stroke="#1f2328" stroke-width="2.6"/>
+
+  <g font-size="12" fill="#6b7280">
+    <text x="160" y="330" text-anchor="middle">штрих идёт поперёк формы,</text>
+    <text x="160" y="348" text-anchor="middle">тень лежит по объёму, обводки нет</text>
+    <text x="160" y="380" text-anchor="middle">у нижнего края светлеет рефлекс,</text>
+    <text x="160" y="398" text-anchor="middle">граница света и тени размыта</text>
+  </g>
+</svg>

@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" width="700" height="400">
-  <rect width="700" height="400" fill="#ffffff"/>
-
-  <!-- ground plane -->
+    <!-- ground plane -->
   <line x1="40" y1="300" x2="660" y2="300" stroke="#c9c2b4" stroke-width="1.2"/>
 
   <!-- light arrow, upper left, 45 degrees -->

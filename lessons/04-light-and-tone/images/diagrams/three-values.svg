@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" width="700" height="400">
-  <rect width="700" height="400" fill="#ffffff"/>
-
-  <!-- light: upper left, 45 degrees, the same source on every sheet of the lesson -->
+    <!-- light: upper left, 45 degrees, the same source on every sheet of the lesson -->
   <g stroke="#b4530a" stroke-width="2.2" fill="none" stroke-linecap="round">
     <line x1="52" y1="48" x2="122" y2="118"/>
     <path d="M100 118 L122 118 L122 96"/>
@@ -17,12 +15,17 @@
 
   <!-- core of the shadow: densest right behind the terminator, thinning outward -->
   <g fill="none" stroke="#9aa0a6" stroke-width="1.4" stroke-linecap="round">
-    <path d="M142 270 A 88 30 -45 0 0 172 255 M206 226 A 88 30 -45 0 0 235 192"/>
-    <path d="M145 272 A 88 38 -45 0 0 177 259 M212 232 A 88 38 -45 0 0 239 197"/>
-    <path d="M147 275 A 88 46 -45 0 0 182 264 M218 238 A 88 46 -45 0 0 244 202"/>
-    <path d="M150 278 A 88 54 -45 0 0 187 269 M223 243 A 88 54 -45 0 0 249 207"/>
-    <path d="M154 282 A 88 64 -45 0 0 193 275 M230 250 A 88 64 -45 0 0 255 213"/>
-    <path d="M177 285 A 88 72 -45 0 0 236 256"/>
+    <path d="M141 269 A 88 28 -45 0 0 171 253 M188 240 A 88 28 -45 0 0 220 208 M233 191 A 88 28 -45 0 0 249 161"/>
+    <path d="M142 270 A 88 32 -45 0 0 174 256 M191 243 A 88 32 -45 0 0 223 211 M236 194 A 88 32 -45 0 0 250 162"/>
+    <path d="M144 272 A 88 36 -45 0 0 176 258 M193 246 A 88 36 -45 0 0 226 213 M238 196 A 88 36 -45 0 0 252 164"/>
+    <path d="M145 273 A 88 40 -45 0 0 178 261 M196 248 A 88 40 -45 0 0 228 216 M241 198 A 88 40 -45 0 0 253 165"/>
+    <path d="M147 274 A 88 44 -45 0 0 181 263 M199 251 A 88 44 -45 0 0 231 219 M243 201 A 88 44 -45 0 0 254 167"/>
+    <path d="M148 276 A 88 48 -45 0 0 183 266 M202 254 A 88 48 -45 0 0 234 222 M246 203 A 88 48 -45 0 0 256 168"/>
+    <path d="M186 268 A 88 52 -45 0 0 222 242 M248 206 A 88 52 -45 0 0 257 170"/>
+    <path d="M151 279 A 88 56 -45 0 0 188 270 M225 245 A 88 56 -45 0 0 250 208"/>
+    <path d="M191 273 A 88 60 -45 0 0 227 247 M253 211 A 88 60 -45 0 0 260 172"/>
+    <path d="M154 282 A 88 65 -45 0 0 194 276 M231 251 A 88 65 -45 0 0 256 214"/>
+    <path d="M176 284 A 88 70 -45 0 0 197 279 M235 255 A 88 70 -45 0 0 259 217"/>
   </g>
   <path d="M182 290 A 88 82 -45 0 0 204 286 M243 263 A 88 82 -45 0 0 266 224" fill="none" stroke="#9aa0a6" stroke-width="0.8" stroke-linecap="round"/>
 
