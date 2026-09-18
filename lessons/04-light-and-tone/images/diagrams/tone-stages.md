@@ -18,11 +18,11 @@
   формы. Падающей тени нет, линии плоскости нет.
 - **Стадия 2 — падающая тень.** Тон на фигуре не тронут. Добавлены линия
   плоскости и падающая тень: выходит из-под стоп без просвета, край у основания
-  обведён сплошной линией, дальний конец — пунктиром, штрихи внутри густые у
-  стоп и редкие к дальнему концу.
+  обведён сплошной линией, дальний конец мягче, штрихи внутри густые у стоп и
+  редкие к дальнему концу.
 - **Стадия 3 — рефлекс.** Вдоль теневого контура правой руки и правой ноги
   лежит светлая полоса с редким штрихом, у границы света и тени добавлен второй
-  проход штриховки. Выноской подписан рефлекс. Итого три тона.
+  проход штриховки. Итого три тона.
 
 **Обязательно видно:**
 - от стадии к стадии добавляется ровно один тон, ничего прежнего не
@@ -38,14 +38,15 @@
 
 **Чего быть не должно:** черт лица, детально прорисованных пальцев, одежды,
 фактуры, фона, четвёртого тона, блика, второго источника, разной позы или
-разного масштаба между стадиями, падающей тени на первой стадии.
+разного масштаба между стадиями, падающей тени на первой стадии, встроенных
+слов и цифр.
 
-**Кадр:** горизонтальный лист 700×400, три фигуры в ряд, равные по высоте и
-выровненные по линии стоп, подписи стадий под каждой фигурой.
+**Кадр:** горизонтальный лист 16:9, три фигуры в ряд, равные по высоте и
+выровненные по линии стоп.
 
-**Статус:** `tone-stages.svg` — временная векторная заглушка, подлежит замене
-карандашной пластиной по `templates/illustration-style.md`. При замене
-проверить, что фигура собрана по тем же массам, что в уроках 01–03.
+**Статус:** `tone-stages.png` — карандашная пластина в стиле
+`templates/illustration-style.md`. Тон обязателен: три стадии одной фигуры.
+Не заглушка.
 
 **Промпт для отрисовки.** Общий префикс из `templates/illustration-style.md`
 плюс:
@@ -64,7 +65,8 @@
 > is untouched; a ground line and a cast shadow are added, leaving the standing
 > feet with no gap, crisp at the base and softening toward the far end. STAGE 3:
 > a lighter band of reflected light appears inside the shadow along the shadow
-> contour of the right arm and the right leg, while the darkest passage stays next
-> to the light–shadow boundary; three values in total. Faceless head, simplified
-> hands and feet, no facial features, no clothing, no surface detail, no
-> blending or smudging, no dark outline on the shadow side, no background.
+> contour of the right arm and the right leg, while the darkest passage stays
+> next to the light–shadow boundary; three values in total. Faceless head,
+> simplified hands and feet, no facial features, no clothing, no surface detail,
+> no blending or smudging, no dark outline on the shadow side, no background, no
+> labels, no numerals.

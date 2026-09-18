@@ -73,7 +73,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Направление луча и деление на свет и тень](./images/diagrams/light-direction.svg)
+![Направление луча и деление на свет и тень](./images/diagrams/light-direction.png)
 
 </div>
 
@@ -106,7 +106,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Граница света и тени на шаре и на коробке](./images/diagrams/terminator-sphere-box.svg)
+![Граница света и тени на шаре и на коробке](./images/diagrams/terminator-sphere-box.png)
 
 </div>
 
@@ -128,7 +128,7 @@ goal: на шаре граница касается контура ровно в
 
 ::reference::
 
-![Терминатор на шаре и на коробке](./images/diagrams/terminator-sphere-box.svg)
+![Терминатор на шаре и на коробке](./images/diagrams/terminator-sphere-box.png)
 
 ---
 layout: compare
@@ -140,11 +140,11 @@ layout: compare
 
 ::wrong::
 
-![Тон каймой по краю силуэта](./images/diagrams/wrong-contour-shading.svg)
+![Тон каймой по краю силуэта](./images/diagrams/wrong-contour-shading.png)
 
 ::right::
 
-![Тон лежит по форме, обводки нет](./images/diagrams/right-form-shading.svg)
+![Тон лежит по форме, обводки нет](./images/diagrams/right-form-shading.png)
 
 ---
 layout: default
@@ -158,7 +158,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Стадии: карта теней, падающая тень, рефлекс](./images/diagrams/tone-stages.svg)
+![Стадии: карта теней, падающая тень, рефлекс](./images/diagrams/tone-stages.png)
 
 </div>
 
@@ -188,7 +188,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Три тона: свет, тень, рефлекс](./images/diagrams/three-values.svg)
+![Три тона: свет, тень, рефлекс](./images/diagrams/three-values.png)
 
 </div>
 
@@ -209,7 +209,7 @@ goal: ровно три различимых тона, самый тёмный �
 
 ::reference::
 
-![Свет, тень, рефлекс](./images/diagrams/three-values.svg)
+![Свет, тень, рефлекс](./images/diagrams/three-values.png)
 
 ---
 layout: compare
@@ -221,11 +221,11 @@ layout: compare
 
 ::wrong::
 
-![Деталь — самое тёмное пятно листа](./images/diagrams/wrong-dark-detail.svg)
+![Деталь — самое тёмное пятно листа](./images/diagrams/wrong-dark-detail.png)
 
 ::right::
 
-![Деталь взята полутоном и подчинена объёму](./images/diagrams/right-detail-in-shadow.svg)
+![Деталь взята полутоном и подчинена объёму](./images/diagrams/right-detail-in-shadow.png)
 
 ---
 layout: checkpoint
