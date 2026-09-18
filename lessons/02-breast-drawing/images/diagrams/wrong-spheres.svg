@@ -1,0 +1,16 @@
+<svg width="320" height="420" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 420" font-family="Inter, sans-serif">
+  <g fill="none" stroke="#1f2328" stroke-width="3" stroke-linejoin="round">
+    <rect x="84" y="56" width="152" height="252" rx="6"/>
+    <circle cx="126" cy="176" r="36"/>
+    <circle cx="194" cy="176" r="36"/>
+  </g>
+  <g fill="#b91c1c">
+    <circle cx="126" cy="176" r="5"/>
+    <circle cx="194" cy="176" r="5"/>
+  </g>
+  <g font-size="12" fill="#6b7280">
+    <text x="160" y="348" text-anchor="middle">клетки нет, торс плоский</text>
+    <text x="160" y="366" text-anchor="middle">формы одинаковые, соски в центре</text>
+    <text x="160" y="384" text-anchor="middle">и смотрят строго вперёд</text>
+  </g>
+</svg>
