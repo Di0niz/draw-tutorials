@@ -75,7 +75,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Один коробок ниже, на уровне и выше горизонта](./images/diagrams/horizon-eye-level.svg)
+![Один коробок ниже, на уровне и выше горизонта](./images/diagrams/horizon-eye-level.png)
 
 </div>
 
@@ -97,7 +97,7 @@ goal: 6 из 6 — снизу видна верхняя грань, сверху
 
 ::reference::
 
-![Горизонт и уровень глаз](./images/diagrams/horizon-eye-level.svg)
+![Горизонт и уровень глаз](./images/diagrams/horizon-eye-level.png)
 
 ---
 layout: default
@@ -109,7 +109,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Три прямоугольника, уходящие в одну точку схода](./images/diagrams/vanishing-points.svg)
+![Три прямоугольника, уходящие в одну точку схода](./images/diagrams/vanishing-points.png)
 
 </div>
 
@@ -133,7 +133,7 @@ goal: 3 из 3 листов — ни одно ребро не промахива
 
 ::reference::
 
-![Одна точка схода и три прямоугольника](./images/diagrams/vanishing-points.svg)
+![Одна точка схода и три прямоугольника](./images/diagrams/vanishing-points.png)
 
 ---
 layout: default
@@ -147,7 +147,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Коробка в двухточечной перспективе со скрытыми рёбрами](./images/diagrams/box-two-point.svg)
+![Коробка в двухточечной перспективе со скрытыми рёбрами](./images/diagrams/box-two-point.png)
 
 </div>
 
@@ -169,7 +169,7 @@ goal: 3 из 3 — вертикали параллельны краю листа
 
 ::reference::
 
-![Построение коробки на двух точках схода](./images/diagrams/box-two-point.svg)
+![Построение коробки на двух точках схода](./images/diagrams/box-two-point.png)
 
 <!--
 Если точки не влезают на лист, отметить их на соседнем и класть листы рядом.
@@ -185,7 +185,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Диагонали грани и её перспективная середина](./images/diagrams/box-diagonals.svg)
+![Диагонали грани и её перспективная середина](./images/diagrams/box-diagonals.png)
 
 </div>
 
@@ -209,7 +209,7 @@ goal: 3 из 3 — на обеих видимых гранях дальняя п
 
 ::reference::
 
-![Диагонали и середина грани](./images/diagrams/box-diagonals.svg)
+![Диагонали и середина грани](./images/diagrams/box-diagonals.png)
 
 ---
 layout: compare
@@ -221,11 +221,11 @@ layout: compare
 
 ::wrong::
 
-![Коробка с параллельными рёбрами и одинаковыми гранями](./images/diagrams/wrong-parallel-box.svg)
+![Коробка с параллельными рёбрами и одинаковыми гранями](./images/diagrams/wrong-parallel-box.png)
 
 ::right::
 
-![Та же коробка со сходящимися рёбрами](./images/diagrams/right-converging-box.svg)
+![Та же коробка со сходящимися рёбрами](./images/diagrams/right-converging-box.png)
 
 ---
 layout: default
@@ -239,7 +239,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Эллипс на вертикальной и наклонной оси цилиндра](./images/diagrams/cylinder-axis.svg)
+![Эллипс на вертикальной и наклонной оси цилиндра](./images/diagrams/cylinder-axis.png)
 
 </div>
 
@@ -259,7 +259,7 @@ goal: 9 из 12 — ось делит эллипс на две зеркальн�
 
 ::reference::
 
-![Малая ось эллипса лежит на оси цилиндра](./images/diagrams/cylinder-axis.svg)
+![Малая ось эллипса лежит на оси цилиндра](./images/diagrams/cylinder-axis.png)
 
 ---
 layout: default
@@ -271,7 +271,7 @@ layout: default
 
 <div class="fig-tall">
 
-![Стопка цилиндров относительно одного горизонта](./images/diagrams/cylinder-stack.svg)
+![Стопка цилиндров относительно одного горизонта](./images/diagrams/cylinder-stack.png)
 
 </div>
 
@@ -294,7 +294,7 @@ goal: 2 из 2 листов — эллипсы раскрываются тем �
 
 ::reference::
 
-![Раскрытие эллипсов по высоте](./images/diagrams/cylinder-stack.svg)
+![Раскрытие эллипсов по высоте](./images/diagrams/cylinder-stack.png)
 
 ---
 layout: compare
@@ -306,11 +306,11 @@ layout: compare
 
 ::wrong::
 
-![Эллипс развёрнут не по оси цилиндра](./images/diagrams/wrong-tilted-ellipse.svg)
+![Эллипс развёрнут не по оси цилиндра](./images/diagrams/wrong-tilted-ellipse.png)
 
 ::right::
 
-![Малая ось эллипса лежит на оси цилиндра](./images/diagrams/right-axis-ellipse.svg)
+![Малая ось эллипса лежит на оси цилиндра](./images/diagrams/right-axis-ellipse.png)
 
 ---
 layout: default
@@ -324,7 +324,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Шары выше и ниже горизонта с поперечными дугами](./images/diagrams/sphere-cross-arcs.svg)
+![Шары выше и ниже горизонта с поперечными дугами](./images/diagrams/sphere-cross-arcs.png)
 
 </div>
 
@@ -345,7 +345,7 @@ goal: 4 из 4 — ниже горизонта дуги провисают, вы
 
 ::reference::
 
-![Дуги на шаре ниже и выше горизонта](./images/diagrams/sphere-cross-arcs.svg)
+![Дуги на шаре ниже и выше горизонта](./images/diagrams/sphere-cross-arcs.png)
 
 ---
 layout: default
@@ -357,7 +357,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Яйцо грудной клетки в фас, три четверти и профиль](./images/diagrams/egg-three-turns.svg)
+![Яйцо грудной клетки в фас, три четверти и профиль](./images/diagrams/egg-three-turns.png)
 
 </div>
 
@@ -386,7 +386,7 @@ goal: 3 из 3 — в три четверти дальняя половина к
 
 ::reference::
 
-![Клетка в трёх поворотах](./images/diagrams/egg-three-turns.svg)
+![Клетка в трёх поворотах](./images/diagrams/egg-three-turns.png)
 
 ---
 layout: compare
@@ -398,11 +398,11 @@ layout: compare
 
 ::wrong::
 
-![Дуги, которые не замыкаются в эллипс](./images/diagrams/wrong-flat-arc.svg)
+![Дуги, которые не замыкаются в эллипс](./images/diagrams/wrong-flat-arc.png)
 
 ::right::
 
-![Дуги, замкнутые пунктиром в эллипсы](./images/diagrams/right-wrapping-arc.svg)
+![Дуги, замкнутые пунктиром в эллипсы](./images/diagrams/right-wrapping-arc.png)
 
 ---
 layout: default
@@ -437,7 +437,7 @@ goal: 3 из 3 — рёбра таза сходятся на проведённ�
 
 ::reference::
 
-![Три стадии сборки торса на одном горизонте](./images/diagrams/build-stages.svg)
+![Три стадии сборки торса на одном горизонте](./images/diagrams/build-stages.png)
 
 ---
 layout: drill
@@ -457,7 +457,7 @@ goal: 2 из 2 — на рисунке видны ровно те же гран�
 
 ::reference::
 
-![Коробок ниже, на уровне и выше горизонта](./images/diagrams/horizon-eye-level.svg)
+![Коробок ниже, на уровне и выше горизонта](./images/diagrams/horizon-eye-level.png)
 
 ---
 layout: default
@@ -467,7 +467,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Три стадии: горизонт и оси, объёмы, дуги и шея](./images/diagrams/build-stages.svg)
+![Три стадии: горизонт и оси, объёмы, дуги и шея](./images/diagrams/build-stages.png)
 
 </div>
 
