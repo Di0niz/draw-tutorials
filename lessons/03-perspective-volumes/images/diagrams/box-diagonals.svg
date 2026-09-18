@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="400" viewBox="0 0 700 400">
+<style>
+.form{fill:none;stroke:#1f2328;stroke-width:2.6;stroke-linecap:round;stroke-linejoin:round}
+.form2{fill:none;stroke:#1f2328;stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round}
+.build{fill:none;stroke:#c9c2b4;stroke-width:1.4;stroke-linecap:round}
+.dash{fill:none;stroke:#c9c2b4;stroke-width:1.4;stroke-linecap:round;stroke-dasharray:6 5}
+.hid{fill:none;stroke:#1f2328;stroke-width:1.4;stroke-linecap:round;stroke-dasharray:6 5}
+.hz{fill:none;stroke:#c9c2b4;stroke-width:1.6}
+.acc{fill:none;stroke:#b4530a;stroke-width:2.2;stroke-linecap:round}
+.accd{fill:none;stroke:#b4530a;stroke-width:1.4;stroke-linecap:round;stroke-dasharray:5 4}
+.err{fill:none;stroke:#b91c1c;stroke-width:2.2;stroke-linecap:round}
+.errd{fill:none;stroke:#b91c1c;stroke-width:1.4;stroke-linecap:round;stroke-dasharray:5 4}
+.dot{fill:#b4530a;stroke:none}
+.t{font-family:Inter, sans-serif;font-size:13px;fill:#6b7280}
+.ts{font-family:Inter, sans-serif;font-size:11.5px;fill:#6b7280}
+.ta{font-family:Inter, sans-serif;font-size:13px;fill:#b4530a}
+.tas{font-family:Inter, sans-serif;font-size:11.5px;fill:#b4530a}
+.te{font-family:Inter, sans-serif;font-size:13px;fill:#b91c1c}
+.tn{font-family:Inter, sans-serif;font-size:13.5px;fill:#1f2328;font-weight:600}
+</style>
+<line class="hz" x1="0.0" y1="40.0" x2="700.0" y2="40.0"/>
+<text class="t" x="12.0" y="28.0" text-anchor="start">горизонт</text>
+<line class="build" x1="399.9" y1="182.0" x2="660.6" y2="40.0"/>
+<line class="build" x1="399.9" y1="78.0" x2="660.6" y2="40.0"/>
+<line class="build" x1="358.2" y1="173.7" x2="660.6" y2="40.0"/>
+<line class="build" x1="358.2" y1="75.8" x2="660.6" y2="40.0"/>
+<line class="hid" x1="99.8" y1="287.9" x2="358.2" y2="173.7"/>
+<line class="hid" x1="399.9" y1="182.0" x2="358.2" y2="173.7"/>
+<line class="hid" x1="358.2" y1="173.7" x2="358.2" y2="75.8"/>
+<line class="form" x1="150.0" y1="318.1" x2="399.9" y2="182.0"/>
+<line class="form" x1="150.0" y1="114.4" x2="399.9" y2="78.0"/>
+<line class="form" x1="99.8" y1="106.3" x2="358.2" y2="75.8"/>
+<line class="form" x1="150.0" y1="318.1" x2="99.8" y2="287.9"/>
+<line class="form" x1="150.0" y1="114.4" x2="99.8" y2="106.3"/>
+<line class="form" x1="399.9" y1="78.0" x2="358.2" y2="75.8"/>
+<line class="form" x1="150.0" y1="318.1" x2="150.0" y2="114.4"/>
+<line class="form" x1="99.8" y1="287.9" x2="99.8" y2="106.3"/>
+<line class="form" x1="399.9" y1="182.0" x2="399.9" y2="78.0"/>
+<circle class="dot" cx="660.6" cy="40.0" r="4.5"/>
+<text class="ta" x="646.6" y="28.0" text-anchor="end">точка схода этой грани</text>
+<line class="accd" x1="150.0" y1="318.1" x2="399.9" y2="78.0"/>
+<line class="accd" x1="150.0" y1="114.4" x2="399.9" y2="182.0"/>
+<line class="acc" x1="315.4" y1="90.3" x2="315.4" y2="228.0"/>
+<line class="acc" x1="150.0" y1="342.1" x2="150.0" y2="354.1"/>
+<line class="acc" x1="315.4" y1="342.1" x2="315.4" y2="354.1"/>
+<line class="acc" x1="399.9" y1="342.1" x2="399.9" y2="354.1"/>
+<line class="acc" x1="150.0" y1="348.1" x2="399.9" y2="348.1"/>
+<text class="tas" x="232.7" y="370.1" text-anchor="middle">ближняя половина</text>
+<text class="tas" x="357.7" y="370.1" text-anchor="middle">дальняя</text>
+<text class="tas" x="357.7" y="385.1" text-anchor="middle">половина</text>
+<text class="t" x="432.0" y="296.0" text-anchor="start">диагонали грани пересекаются</text>
+<text class="t" x="432.0" y="315.0" text-anchor="start">в её середине, но на листе</text>
+<text class="t" x="432.0" y="334.0" text-anchor="start">дальняя половина короче</text>
+</svg>

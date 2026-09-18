@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 700 400" width="700" height="400">
+  <rect width="700" height="400" fill="#ffffff"/>
+
+  <defs>
+    <g id="fig">
+      <g fill="none" stroke="#c9c2b4" stroke-width="1.4" stroke-linecap="round">
+        <path d="M130 72 L130 243" stroke-dasharray="6 6"/>
+        <path d="M110 129 Q130 138 150 129 M113 158 Q130 167 147 158 M115 186 Q130 194 145 186 M111 210 Q130 219 149 210"/>
+        <path d="M110 140 C105 172 103 200 102 226 M150 140 C155 172 157 200 158 226"/>
+        <path d="M113 142 C110 166 115 180 116 190 C111 200 108 212 109 226"/>
+        <path d="M147 142 C150 166 145 180 144 190 C149 200 152 212 151 226"/>
+      </g>
+      <g fill="none" stroke="#1f2328" stroke-width="2.6" stroke-linejoin="round">
+        <ellipse cx="130" cy="88" rx="14" ry="18"/>
+        <path d="M121 105 C116 117 111 121 105 128 C97 152 94 192 99 221 C100 231 101 236 103 241
+                 C106 246 107 259 109 271 C111 285 112 294 111 302 L110 308 L126 308
+                 L122 300 L122 271 L129 243 L131 243 L138 271 L138 300 L134 308 L150 308 L149 302
+                 C148 294 149 285 151 271 C153 259 154 246 157 241 C159 236 160 231 161 221
+                 C166 192 163 152 155 128 C149 121 144 117 139 105 Z"/>
+      </g>
+    </g>
+
+    <g id="core" fill="none" stroke="#9aa0a6" stroke-width="1.4" stroke-linecap="round">
+      <path d="M134 79 A 16 16 0 0 0 141 84 M133 90 A 16 16 0 0 0 141 95 M134 100 A 14 14 0 0 0 137 102"/>
+      <path d="M133 110 A 14 14 0 0 0 138 112 M136 130 A 22 22 0 0 0 148 131 M135 140 A 24 24 0 0 0 150 141"/>
+      <path d="M134 150 A 24 24 0 0 0 152 152 M134 160 A 24 24 0 0 0 153 162 M133 170 A 24 24 0 0 0 155 172"/>
+      <path d="M133 180 A 24 24 0 0 0 155 182 M133 190 A 24 24 0 0 0 155 192 M133 200 A 24 24 0 0 0 155 202"/>
+      <path d="M133 210 A 24 24 0 0 0 154 212 M134 220 A 24 24 0 0 0 153 222 M135 230 A 22 22 0 0 0 152 232"/>
+      <path d="M141 250 A 20 20 0 0 0 147 252 M140 262 A 18 18 0 0 0 145 264 M141 274 A 18 18 0 0 0 145 276"/>
+      <path d="M141 286 A 16 16 0 0 0 144 288 M141 298 A 16 16 0 0 0 144 300"/>
+      <path d="M118 256 A 12 12 0 0 0 124 258 M116 272 A 12 12 0 0 0 121 274 M116 288 A 12 12 0 0 0 121 290"/>
+    </g>
+
+    <g id="cast">
+      <line x1="70" y1="309" x2="215" y2="309" stroke="#c9c2b4" stroke-width="1.4"/>
+      <g fill="none" stroke="#9aa0a6" stroke-linecap="round">
+        <path d="M110 306 L110 313 M110 306 C130 305 148 306 164 309 M110 313 C128 318 146 321 164 322" stroke-width="1.4"/>
+        <path d="M164 309 C180 311 196 313 206 316 M164 322 C182 322 196 320 206 316" stroke-width="0.8" stroke-dasharray="4 4"/>
+        <path d="M116 307 L122 315 M126 306 L134 318 M136 307 L146 320 M148 308 L158 321" stroke-width="1.4"/>
+        <path d="M160 309 L170 322 M174 311 L182 321 M190 314 L196 319" stroke-width="1.4"/>
+      </g>
+    </g>
+
+    <g id="refl">
+      <path d="M154 134 C161 156 163 178 162 203 C161 216 160 228 156 240 L150 238
+               C154 226 155 214 156 200 C157 178 155 156 148 135 Z" fill="#e0dacd"/>
+      <path d="M151 252 C152 268 150 286 149 300 L145 300 C146 286 148 268 146 252 Z" fill="#e0dacd"/>
+      <g fill="none" stroke="#9aa0a6" stroke-linecap="round">
+        <path d="M134 150 A 20 20 0 0 0 145 152 M134 170 A 20 20 0 0 0 145 172 M134 190 A 20 20 0 0 0 145 192" stroke-width="1.4"/>
+        <path d="M134 210 A 20 20 0 0 0 145 212 M135 228 A 18 18 0 0 0 145 230" stroke-width="1.4"/>
+        <path d="M153 152 A 20 20 0 0 0 159 154 M154 184 A 20 20 0 0 0 160 186 M153 214 A 20 20 0 0 0 158 216" stroke-width="0.8"/>
+      </g>
+      <line x1="178" y1="196" x2="161" y2="201" stroke="#c9c2b4" stroke-width="1" stroke-dasharray="5 4"/>
+      <text x="180" y="193" font-family="Inter, sans-serif" font-size="12" fill="#6b7280">рефлекс</text>
+    </g>
+  </defs>
+
+  <!-- light: upper left, 45 degrees, the same source on every sheet of the lesson -->
+  <g stroke="#b4530a" stroke-width="2.2" fill="none" stroke-linecap="round">
+    <line x1="36" y1="36" x2="86" y2="86"/>
+    <path d="M70 86 L86 86 L86 70"/>
+  </g>
+  <text x="36" y="28" font-family="Inter, sans-serif" font-size="13" fill="#6b7280">свет</text>
+
+  <use xlink:href="#fig"/>
+  <use xlink:href="#core"/>
+  <use xlink:href="#fig" x="215"/>
+  <use xlink:href="#core" x="215"/>
+  <use xlink:href="#cast" x="215"/>
+  <use xlink:href="#fig" x="430"/>
+  <use xlink:href="#core" x="430"/>
+  <use xlink:href="#cast" x="430"/>
+  <use xlink:href="#refl" x="430"/>
+
+  <g font-family="Inter, sans-serif" font-size="12" fill="#6b7280">
+    <text x="78" y="352">1 — карта теней: два тона</text>
+    <text x="293" y="352">2 — падающая тень из-под стопы</text>
+    <text x="508" y="352">3 — рефлекс: третий тон</text>
+    <text x="40" y="378">Поза, ракурс и масштаб не меняются. От листа к листу добавляется ровно один тон.</text>
+  </g>
+</svg>

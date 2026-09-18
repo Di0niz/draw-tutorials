@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="430" viewBox="0 0 320 430">
+<style>
+.form{fill:none;stroke:#1f2328;stroke-width:2.6;stroke-linecap:round;stroke-linejoin:round}
+.form2{fill:none;stroke:#1f2328;stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round}
+.build{fill:none;stroke:#c9c2b4;stroke-width:1.4;stroke-linecap:round}
+.dash{fill:none;stroke:#c9c2b4;stroke-width:1.4;stroke-linecap:round;stroke-dasharray:6 5}
+.hid{fill:none;stroke:#1f2328;stroke-width:1.4;stroke-linecap:round;stroke-dasharray:6 5}
+.hz{fill:none;stroke:#c9c2b4;stroke-width:1.6}
+.acc{fill:none;stroke:#b4530a;stroke-width:2.2;stroke-linecap:round}
+.accd{fill:none;stroke:#b4530a;stroke-width:1.4;stroke-linecap:round;stroke-dasharray:5 4}
+.err{fill:none;stroke:#b91c1c;stroke-width:2.2;stroke-linecap:round}
+.errd{fill:none;stroke:#b91c1c;stroke-width:1.4;stroke-linecap:round;stroke-dasharray:5 4}
+.dot{fill:#b4530a;stroke:none}
+.t{font-family:Inter, sans-serif;font-size:13px;fill:#6b7280}
+.ts{font-family:Inter, sans-serif;font-size:11.5px;fill:#6b7280}
+.ta{font-family:Inter, sans-serif;font-size:13px;fill:#b4530a}
+.tas{font-family:Inter, sans-serif;font-size:11.5px;fill:#b4530a}
+.te{font-family:Inter, sans-serif;font-size:13px;fill:#b91c1c}
+.tn{font-family:Inter, sans-serif;font-size:13.5px;fill:#1f2328;font-weight:600}
+</style>
+<line class="accd" x1="90.9" y1="364.7" x2="225.1" y2="63.3"/>
+<line class="form" x1="253.4" y1="139.1" x2="186.6" y2="288.9"/>
+<line class="form" x1="129.4" y1="139.1" x2="62.6" y2="288.9"/>
+<path class="form" d="M 253.4 139.1 L 253.1 140.6 L 252.4 142.0 L 251.2 143.5 L 249.6 144.9 L 247.5 146.3 L 245.0 147.6 L 242.1 148.8 L 238.8 150.0 L 235.2 151.1 L 231.2 152.1 L 226.9 153.0 L 222.4 153.8 L 217.6 154.5 L 212.6 155.1 L 207.4 155.5 L 202.1 155.8 L 196.8 156.0 L 191.4 156.1 L 185.9 156.0 L 180.6 155.8 L 175.3 155.5 L 170.1 155.1 L 165.2 154.5 L 160.4 153.8 L 155.8 153.0 L 151.5 152.1 L 147.5 151.1 L 143.9 150.0 L 140.6 148.8 L 137.7 147.6 L 135.2 146.3 L 133.1 144.9 L 131.5 143.5 L 130.3 142.0 L 129.6 140.6 L 129.4 139.1 L 129.6 137.6 L 130.3 136.1 L 131.5 134.7 L 133.1 133.3 L 135.2 131.9 L 137.7 130.6 L 140.6 129.3 L 143.9 128.2 L 147.5 127.1 L 151.5 126.1 L 155.8 125.2 L 160.4 124.4 L 165.2 123.7 L 170.1 123.1 L 175.3 122.7 L 180.6 122.3 L 185.9 122.2 L 191.4 122.1 L 196.8 122.2 L 202.1 122.3 L 207.4 122.7 L 212.6 123.1 L 217.6 123.7 L 222.4 124.4 L 226.9 125.2 L 231.2 126.1 L 235.2 127.1 L 238.8 128.2 L 242.1 129.3 L 245.0 130.6 L 247.5 131.9 L 249.6 133.3 L 251.2 134.7 L 252.4 136.1 L 253.1 137.6 L 253.4 139.1"/>
+<path class="form" d="M 186.6 288.9 L 186.6 290.0 L 186.4 291.2 L 186.1 292.3 L 185.7 293.4 L 185.2 294.5 L 184.5 295.6 L 183.8 296.7 L 182.9 297.8 L 181.9 298.9 L 180.8 299.9 L 179.6 300.9 L 178.3 301.9 L 176.9 302.9 L 175.4 303.8 L 173.8 304.7 L 172.1 305.6 L 170.4 306.5 L 168.5 307.3 L 166.5 308.1 L 164.5 308.8 L 162.4 309.5 L 160.2 310.2 L 158.0 310.8 L 155.6 311.4 L 153.3 312.0 L 150.8 312.5 L 148.4 312.9 L 145.9 313.3 L 143.3 313.7 L 140.7 314.0 L 138.1 314.3 L 135.4 314.5 L 132.7 314.7 L 130.1 314.8 L 127.4 314.9 L 124.6 314.9 L 121.9 314.9 L 119.2 314.8 L 116.6 314.7 L 113.9 314.5 L 111.2 314.3 L 108.6 314.0 L 106.0 313.7 L 103.4 313.3 L 100.9 312.9 L 98.4 312.5 L 96.0 312.0 L 93.6 311.4 L 91.3 310.8 L 89.1 310.2 L 86.9 309.5 L 84.8 308.8 L 82.8 308.1 L 80.8 307.3 L 78.9 306.5 L 77.2 305.6 L 75.5 304.7 L 73.9 303.8 L 72.4 302.9 L 71.0 301.9 L 69.7 300.9 L 68.5 299.9 L 67.4 298.9 L 66.4 297.8 L 65.5 296.7 L 64.8 295.6 L 64.1 294.5 L 63.6 293.4 L 63.2 292.3 L 62.9 291.2 L 62.7 290.0 L 62.6 288.9"/>
+<path class="hid" d="M 62.6 288.9 L 62.7 287.8 L 62.9 286.6 L 63.2 285.5 L 63.6 284.4 L 64.1 283.3 L 64.8 282.2 L 65.5 281.1 L 66.4 280.0 L 67.4 279.0 L 68.5 277.9 L 69.7 276.9 L 71.0 275.9 L 72.4 274.9 L 73.9 274.0 L 75.5 273.1 L 77.2 272.2 L 78.9 271.3 L 80.8 270.5 L 82.8 269.7 L 84.8 269.0 L 86.9 268.3 L 89.1 267.6 L 91.3 267.0 L 93.6 266.4 L 96.0 265.8 L 98.4 265.3 L 100.9 264.9 L 103.4 264.5 L 106.0 264.1 L 108.6 263.8 L 111.2 263.5 L 113.9 263.3 L 116.6 263.1 L 119.2 263.0 L 121.9 262.9 L 124.6 262.9 L 127.4 262.9 L 130.1 263.0 L 132.7 263.1 L 135.4 263.3 L 138.1 263.5 L 140.7 263.8 L 143.3 264.1 L 145.9 264.5 L 148.4 264.9 L 150.8 265.3 L 153.3 265.8 L 155.6 266.4 L 158.0 267.0 L 160.2 267.6 L 162.4 268.3 L 164.5 269.0 L 166.5 269.7 L 168.5 270.5 L 170.4 271.3 L 172.1 272.2 L 173.8 273.1 L 175.4 274.0 L 176.9 274.9 L 178.3 275.9 L 179.6 276.9 L 180.8 277.9 L 181.9 279.0 L 182.9 280.0 L 183.8 281.1 L 184.5 282.2 L 185.2 283.3 L 185.7 284.4 L 186.1 285.5 L 186.4 286.6 L 186.6 287.8 L 186.6 288.9"/>
+<line class="err" x1="191.4" y1="109.1" x2="191.4" y2="169.1"/>
+<text class="te" x="10.0" y="386.0" text-anchor="start">малая ось эллипса вертикальна,</text>
+<text class="te" x="10.0" y="404.0" text-anchor="start">а ось цилиндра наклонена —</text>
+<text class="te" x="10.0" y="422.0" text-anchor="start">форму выворачивает</text>
+</svg>
