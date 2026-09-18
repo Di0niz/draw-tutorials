@@ -41,7 +41,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Семь дней недели и накопление часов](./images/diagrams/growth-map.svg)
+![Семь дней недели и накопление часов](./images/diagrams/growth-map.png)
 
 </div>
 
@@ -79,7 +79,7 @@ layout: default
 
 <div class="fig-tall">
 
-![Линия действия проходит сквозь фигуру от макушки до опорной стопы](./images/diagrams/gesture.svg)
+![Линия действия проходит сквозь фигуру от макушки до опорной стопы](./images/diagrams/gesture.png)
 
 </div>
 
@@ -143,7 +143,7 @@ layout: default
 
 <div class="fig-tall">
 
-![Фигура, поделённая на 7,5 голов, с ключевыми отметками](./images/diagrams/proportions.svg)
+![Фигура, поделённая на 7,5 голов, с ключевыми отметками](./images/diagrams/proportions.png)
 
 </div>
 
@@ -197,7 +197,7 @@ layout: default
 
 <div class="fig-tall">
 
-![Грудная клетка как яйцо и таз как коробка, оси плеч и таза](./images/diagrams/masses.svg)
+![Грудная клетка как яйцо и таз как коробка, оси плеч и таза](./images/diagrams/masses.png)
 
 </div>
 
@@ -251,7 +251,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Посадка груди на грудной клетке: вид спереди и вид сбоку](./images/diagrams/breast-construction.svg)
+![Посадка груди на грудной клетке: вид спереди и вид сбоку](./images/diagrams/breast-construction.png)
 
 </div>
 
@@ -278,7 +278,7 @@ goal: у грудины есть просвет, оси не параллель�
 
 ::reference::
 
-![Построение: след на клетке и масса поверх](./images/diagrams/breast-construction.svg)
+![Построение: след на клетке и масса поверх](./images/diagrams/breast-construction.png)
 
 ---
 layout: drill
@@ -307,11 +307,11 @@ layout: compare
 
 ::wrong::
 
-![Два круга на плоской доске](./images/diagrams/wrong-breasts.svg)
+![Два круга на плоской доске](./images/diagrams/wrong-breasts.png)
 
 ::right::
 
-![Массы, лежащие на грудной клетке](./images/diagrams/right-breasts.svg)
+![Массы, лежащие на грудной клетке](./images/diagrams/right-breasts.png)
 
 ---
 layout: default
@@ -325,7 +325,7 @@ layout: default
 
 <div class="fig-tall">
 
-![Ритм контура: прямая сторона против круглой](./images/diagrams/rhythm.svg)
+![Ритм контура: прямая сторона против круглой](./images/diagrams/rhythm.png)
 
 </div>
 
@@ -377,11 +377,11 @@ layout: compare
 
 ::wrong::
 
-![Симметричный силуэт, читается как ваза](./images/diagrams/wrong-vase.svg)
+![Симметричный силуэт, читается как ваза](./images/diagrams/wrong-vase.png)
 
 ::right::
 
-![Ритмичный контур: стороны не повторяют друг друга](./images/diagrams/right-rhythm.svg)
+![Ритмичный контур: стороны не повторяют друг друга](./images/diagrams/right-rhythm.png)
 
 ---
 layout: default
@@ -395,7 +395,7 @@ layout: default
 
 <div class="fig-tall">
 
-![Контрапост: наклоны осей и линия отвеса](./images/diagrams/contrapposto.svg)
+![Контрапост: наклоны осей и линия отвеса](./images/diagrams/contrapposto.png)
 
 </div>
 
@@ -447,7 +447,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Четыре стадии сборки: жест, массы, контур, тон](./images/diagrams/assembly.svg)
+![Четыре стадии сборки: жест, массы, контур, тон](./images/diagrams/assembly.png)
 
 </div>
 
