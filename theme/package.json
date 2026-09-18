@@ -1,0 +1,19 @@
+{
+  "name": "slidev-theme-draw-lesson",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "keywords": ["slidev-theme", "slidev"],
+  "slidev": {
+    "defaults": {
+      "aspectRatio": "79/105",
+      "canvasWidth": 632,
+      "colorSchema": "light",
+      "fonts": {
+        "sans": "Inter",
+        "serif": "PT Serif",
+        "mono": "JetBrains Mono"
+      }
+    }
+  }
+}

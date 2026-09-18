@@ -1,0 +1,119 @@
+:root {
+  --lesson-ink: #1f2328;
+  --lesson-muted: #6b7280;
+  --lesson-line: #e5e7eb;
+  --lesson-accent: #b4530a;
+  --lesson-right: #15803d;
+  --lesson-wrong: #b91c1c;
+  --lesson-paper: #fcfbf8;
+}
+
+html,
+body,
+#slide-content {
+  background: var(--lesson-paper);
+}
+
+.slidev-layout {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: var(--lesson-paper);
+  color: var(--lesson-ink);
+  padding: 1.4rem 1.5rem;
+  font-size: 0.72rem;
+  line-height: 1.5;
+}
+
+.slidev-layout h1 {
+  font-size: 1.9em;
+  line-height: 1.15;
+  font-weight: 700;
+}
+
+.slidev-layout h2 {
+  font-size: 1.35em;
+  line-height: 1.2;
+  font-weight: 600;
+}
+
+.slidev-layout p,
+.slidev-layout ul,
+.slidev-layout ol {
+  margin: 0.5em 0;
+}
+
+.slidev-layout ul {
+  list-style: disc;
+  padding-left: 1.2em;
+}
+
+.slidev-layout ol {
+  list-style: decimal;
+  padding-left: 1.4em;
+}
+
+.slidev-layout li {
+  line-height: 1.5;
+  margin-bottom: 0.25em;
+}
+
+.slidev-layout li::marker {
+  color: var(--lesson-muted);
+}
+
+.slidev-layout img {
+  border-radius: 4px;
+  object-fit: contain;
+}
+
+.lesson-eyebrow {
+  font-size: 0.85em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--lesson-muted);
+}
+
+.lesson-caption {
+  font-size: 0.8em;
+  color: var(--lesson-muted);
+  margin-top: 0.3em;
+}
+
+/* Картинка забирает всю высоту, оставшуюся от текста на странице */
+.fig-tall,
+.fig-wide {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0.6em 0 0;
+}
+
+.fig-tall img,
+.fig-wide img {
+  max-height: 100%;
+  max-width: 100%;
+  width: auto;
+}
+
+/* Пошаговый разбор: строка = картинка слева, что делаем справа */
+.steps-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7em;
+}
+
+.steps-stack figure {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.9em;
+  align-items: center;
+  margin: 0;
+}
+
+.steps-stack img {
+  max-height: 185px;
+  width: auto;
+}

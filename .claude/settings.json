@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm install)",
+      "Bash(pnpm dev:*)",
+      "Bash(pnpm pdf:*)",
+      "Bash(pnpm shots:*)",
+      "Bash(node scripts/placeholder.mjs:*)",
+      "Bash(pdftotext:*)",
+      "Bash(pdfimages:*)",
+      "Bash(pdfinfo:*)",
+      "Bash(sips:*)",
+      "Bash(curl -L --fail -o:*)",
+      "Bash(ls:*)",
+      "Bash(rg:*)",
+      "Bash(mkdir -p lessons/:*)",
+      "Bash(cp templates/:*)",
+      "WebSearch",
+      "WebFetch(domain:commons.wikimedia.org)",
+      "WebFetch(domain:upload.wikimedia.org)",
+      "WebFetch(domain:www.metmuseum.org)",
+      "WebFetch(domain:api.artic.edu)",
+      "WebFetch(domain:www.artic.edu)",
+      "WebFetch(domain:www.rijksmuseum.nl)",
+      "WebFetch(domain:www.si.edu)",
+      "WebFetch(domain:digitalcollections.nypl.org)",
+      "WebFetch(domain:openverse.org)",
+      "WebFetch(domain:unsplash.com)",
+      "WebFetch(domain:www.pexels.com)",
+      "WebFetch(domain:sli.dev)"
+    ]
+  }
+}
