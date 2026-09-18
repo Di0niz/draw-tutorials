@@ -1,54 +1,70 @@
-<svg width="700" height="400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" font-family="Inter, sans-serif">
+<svg width="560" height="830" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 830" font-family="Inter, sans-serif">
   <style>
     .form { fill: none; stroke: #1f2328; stroke-width: 2.6; stroke-linejoin: round; stroke-linecap: round }
-    .hid { fill: none; stroke: #c9c2b4; stroke-width: 1.4; stroke-dasharray: 5 5 }
+    .con { fill: none; stroke: #c9c2b4; stroke-width: 1.4; stroke-linejoin: round; stroke-linecap: round }
+    .hid { fill: none; stroke: #c9c2b4; stroke-width: 1.4; stroke-dasharray: 6 5; stroke-linejoin: round }
+    .acc { fill: none; stroke: #b4530a; stroke-width: 2.6; stroke-linecap: round }
+    .brk { fill: none; stroke: #b4530a; stroke-width: 1.8; stroke-linecap: round }
     .cap { font-size: 13px; font-weight: 700; fill: #1f2328 }
     .sub { font-size: 12px; fill: #6b7280 }
-    .acc { font-size: 12px; fill: #b4530a }
+    .num { font-size: 15px; font-weight: 700; fill: #b4530a }
   </style>
 
-  <g transform="translate(30,40)">
-    <g class="form">
-      <path d="M40 80 L140 92 L146 208 L36 196 Z"/>
-      <path d="M140 92 L162 76 L168 190 L146 208"/>
-      <path d="M40 80 L62 64 L162 76"/>
-      <path d="M52 196 L58 244 L128 252 L134 210"/>
-      <path d="M128 252 L150 238 L158 194"/>
-      <path d="M44 76 L46 44 M70 78 L72 40 M96 82 L98 44 M122 86 L124 50"/>
-    </g>
-    <text class="cap" x="100" y="296" text-anchor="middle">тыл</text>
-    <text class="sub" x="100" y="316" text-anchor="middle">ширина ладони</text>
+  <g class="form">
+    <path d="M104 112 Q164 104 224 124 L208 250 L112 250 Z"/>
+    <path d="M104 112 L116 98 Q176 90 236 110 L224 124"/>
+    <path d="M236 110 L220 236 L208 250"/>
+    <path d="M128 250 L124 312 L204 312 L200 250"/>
+    <path d="M366 118 Q356 184 372 250"/>
+    <path d="M366 118 Q400 110 432 126"/>
+    <path d="M432 126 C428 156 406 172 407 200 C410 232 436 230 420 250"/>
+    <path d="M372 250 L420 250"/>
+    <path d="M384 250 L386 312 L422 312 L420 250"/>
+    <path d="M128 492 L248 480 L232 618 L136 618 Z"/>
+    <path d="M128 492 L116 478 L236 466 L248 480"/>
+    <path d="M116 478 L124 604 L136 618"/>
+    <path d="M152 618 L148 680 L224 680 L220 618"/>
+    <path d="M352 590 Q405 598 458 590"/>
+    <path d="M352 590 L352 548 M458 590 L458 548"/>
+    <path d="M352 548 C366 542 372 566 405 566 C438 566 444 542 458 548"/>
   </g>
 
-  <g transform="translate(270,40)">
-    <g class="form">
-      <path d="M60 80 L104 74 L110 202 L58 196 Z"/>
-      <path d="M104 74 L112 84 L118 196 L110 202"/>
-      <path d="M64 196 L68 244 L102 248 L106 204"/>
-      <path d="M62 76 L64 44 M78 74 L80 40 M94 76 L96 44"/>
-    </g>
-    <g stroke="#b4530a" stroke-width="2.4">
-      <line x1="60" y1="262" x2="104" y2="262"/>
-      <line x1="60" y1="256" x2="60" y2="268"/>
-      <line x1="104" y1="256" x2="104" y2="268"/>
-    </g>
-    <text class="acc" x="82" y="282" text-anchor="middle">толщина</text>
-    <text class="cap" x="82" y="306" text-anchor="middle">ребро</text>
-    <text class="sub" x="82" y="326" text-anchor="middle">толщина никуда не исчезает</text>
+  <g class="con">
+    <path d="M106 150 Q163 166 219 160 M110 210 Q161 228 212 218"/>
+    <path d="M112 250 L112 344 M208 250 L208 344 M372 250 L372 344 M420 250 L420 344"/>
+    <path d="M132 556 Q188 536 240 548 M135 600 Q185 582 235 592"/>
+    <path d="M226 516 C244 544 240 588 222 610 M148 528 C158 556 158 590 150 612"/>
+    <path d="M264 94 L234 106 M268 528 L230 540 M248 648 L228 626"/>
   </g>
 
-  <g transform="translate(470,40)">
-    <g class="form">
-      <path d="M40 92 L140 80 L146 196 L36 208 Z"/>
-      <path d="M40 92 L18 76 L24 190 L36 208"/>
-      <path d="M140 80 L118 64 L18 76"/>
-      <path d="M52 208 L58 252 L128 244 L134 198"/>
-      <path d="M60 78 L62 46 M86 76 L88 42 M112 74 L114 40 M136 78 L138 48"/>
-      <path d="M24 130 C6 126 0 146 8 158 C16 170 32 170 40 162"/>
-    </g>
-    <text class="cap" x="82" y="296" text-anchor="middle">ладонь</text>
-    <text class="sub" x="82" y="316" text-anchor="middle">ложится чашей</text>
+  <g class="hid">
+    <path d="M112 250 L124 236 L220 236 M124 236 L116 98"/>
+    <path d="M167 100 L159 290 M399 114 L397 296"/>
+    <path d="M232 618 L220 604 L124 604 M220 604 L236 466"/>
+    <path d="M133 576 L237 576 M237 574 L344 568"/>
   </g>
 
-  <text class="sub" x="350" y="382" text-anchor="middle">Ладонь — коробка: у неё есть тыл, ладонная сторона и торцы. Запястье у́же ладони, между ними ступенька.</text>
+  <g class="acc">
+    <path d="M112 250 L128 250 M200 250 L208 250 M372 250 L384 250"/>
+    <path d="M136 618 L152 618 M220 618 L232 618"/>
+  </g>
+
+  <g class="brk">
+    <path d="M112 338 L208 338 M112 330 L112 346 M208 330 L208 346"/>
+    <path d="M372 338 L420 338 M372 330 L372 346 M420 330 L420 346"/>
+  </g>
+
+  <text class="cap" x="160" y="74" text-anchor="middle">вид с тыла</text>
+  <text class="cap" x="396" y="74" text-anchor="middle">вид с ребра</text>
+  <text class="sub" x="268" y="98">торец</text>
+  <text class="num" x="290" y="343" text-anchor="middle">2 : 1</text>
+  <text class="sub" x="160" y="364" text-anchor="middle">ширина запястья</text>
+  <text class="sub" x="396" y="364" text-anchor="middle">толщина</text>
+  <text class="sub" x="280" y="396" text-anchor="middle">коробка сужается к запястью, тыл слегка выгнут</text>
+  <text class="cap" x="190" y="446" text-anchor="middle">вид с ладони</text>
+  <text class="sub" x="272" y="524">подушки</text>
+  <text class="sub" x="405" y="616" text-anchor="middle">сечение ладони</text>
+  <text class="sub" x="405" y="634" text-anchor="middle">неглубокая чаша</text>
+  <text class="sub" x="252" y="652">ступенька запястья</text>
+  <text class="sub" x="280" y="730" text-anchor="middle">три вида одной кисти в одном масштабе, пальцы не нарисованы</text>
 </svg>

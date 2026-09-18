@@ -1,5 +1,67 @@
 <svg width="560" height="830" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 830" font-family="Inter, sans-serif">
-  <rect x="10" y="10" width="540" height="810" fill="#efece4" stroke="#c9c2b4" stroke-width="3" stroke-dasharray="14 10"/>
-  <text x="280" y="407" font-size="22" text-anchor="middle" fill="#8a8272">схема не готова</text>
-  <text x="280" y="437" font-size="16" text-anchor="middle" fill="#a49b8a">thumb-wedge</text>
+  <style>
+    .form { fill: none; stroke: #1f2328; stroke-width: 2.6; stroke-linejoin: round; stroke-linecap: round }
+    .con { fill: none; stroke: #c9c2b4; stroke-width: 1.4; stroke-linejoin: round; stroke-linecap: round }
+    .hid { fill: none; stroke: #c9c2b4; stroke-width: 1.4; stroke-dasharray: 6 5; stroke-linejoin: round }
+    .acc { fill: none; stroke: #b4530a; stroke-width: 1.8; stroke-dasharray: 7 5; stroke-linecap: round }
+    .arc { fill: none; stroke: #b4530a; stroke-width: 1.8 }
+    .cap { font-size: 13px; font-weight: 700; fill: #1f2328 }
+    .sub { font-size: 12px; fill: #6b7280 }
+  </style>
+
+  <g class="form">
+    <path d="M176 196 L316 212 L300 358 L190 358 Z"/>
+    <path d="M176 196 L190 180 L330 196 L316 212"/>
+    <path d="M330 196 L314 342 L300 358"/>
+    <path d="M180 194 L212 198 L207 124 L177 120 Z"/>
+    <path d="M177 120 L207 124 L203 80 L176 77 Z"/>
+    <path d="M176 77 L203 80 L200 52 Q188 40 176 54 Z"/>
+    <path d="M190 358 L140 358 L126 266 L166 252 Z"/>
+    <path d="M126 266 L166 252 L160 172 L126 178 Z"/>
+    <path d="M126 178 L160 172 L154 128 Q138 112 122 134 Z"/>
+    <path d="M163 216 Q182 182 179 156"/>
+    <path d="M232 564 Q224 632 236 700"/>
+    <path d="M232 564 Q262 556 296 570"/>
+    <path d="M296 570 C292 604 270 622 272 650 C274 678 294 676 291 700"/>
+    <path d="M236 700 L291 700"/>
+    <path d="M300 708 L272 672 L329 632 L351 660 Z"/>
+    <path d="M329 632 L351 660 L376 626 L357 602 Z"/>
+    <path d="M357 602 L376 626 L386 595 Q384 578 370 577 Z"/>
+  </g>
+
+  <g class="con">
+    <path d="M216 200 L248 204 L246 150 L215 146 Z"/>
+    <path d="M250 204 L280 208 L279 158 L249 154 Z"/>
+    <path d="M282 208 L314 212 L313 166 L282 162 Z"/>
+  </g>
+
+  <g class="hid">
+    <path d="M190 358 L204 342 L314 342 M204 342 L190 180"/>
+    <path d="M163 216 L180 226"/>
+    <path d="M297 556 L289 740"/>
+    <path d="M281 695 L392 570"/>
+  </g>
+
+  <g class="acc">
+    <path d="M104 121 L222 121"/>
+    <path d="M96 358 L332 358"/>
+    <path d="M231 530 L238 772"/>
+    <path d="M236 700 L334 700"/>
+  </g>
+
+  <path class="arc" d="M290 724 A40 40 0 0 0 318 654"/>
+
+  <text class="cap" x="56" y="64">вид с тыла</text>
+  <text class="sub" x="238" y="106">кончик большого доходит</text>
+  <text class="sub" x="238" y="124">до среднего сустава указательного</text>
+  <text class="sub" x="340" y="348">основание клина —</text>
+  <text class="sub" x="340" y="366">на уровне запястья</text>
+  <text class="sub" x="280" y="436" text-anchor="middle">клин растёт от запястья, масса у основания пирамидальная</text>
+  <text class="sub" x="280" y="454" text-anchor="middle">между большим и указательным натянута перепонка</text>
+  <text class="cap" x="56" y="528">вид с торца</text>
+  <text class="sub" x="212" y="556" text-anchor="end">прямая вдоль тыла ладони</text>
+  <text class="sub" x="212" y="574" text-anchor="end">не задевает большой</text>
+  <text class="sub" x="340" y="694">уровень запястья</text>
+  <text class="sub" x="306" y="752">угол больше прямого</text>
+  <text class="sub" x="280" y="800" text-anchor="middle">клин повёрнут под ладонь, он работает в своей плоскости</text>
 </svg>
