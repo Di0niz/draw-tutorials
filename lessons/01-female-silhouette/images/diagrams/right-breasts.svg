@@ -1,0 +1,26 @@
+<svg width="320" height="430" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 430" font-family="Inter, sans-serif">
+  <defs>
+    <marker id="a3" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#b4530a"/>
+    </marker>
+  </defs>
+  <g fill="none" stroke="#1f2328" stroke-width="3" stroke-linejoin="round">
+    <path d="M92 96 C80 164 84 246 100 296 C128 316 192 316 220 296 C236 246 240 164 228 96 C204 72 116 72 92 96 Z"/>
+    <path d="M118 296 L160 318 L202 296"/>
+    <ellipse cx="126" cy="196" rx="36" ry="32" transform="rotate(-14 126 196)"/>
+    <ellipse cx="194" cy="196" rx="36" ry="32" transform="rotate(14 194 196)"/>
+  </g>
+  <g stroke="#b4530a" stroke-width="2" fill="none">
+    <path d="M156 172 L116 206" marker-end="url(#a3)"/>
+    <path d="M164 172 L204 206" marker-end="url(#a3)"/>
+  </g>
+  <g fill="#b4530a">
+    <circle cx="112" cy="210" r="4"/>
+    <circle cx="208" cy="210" r="4"/>
+  </g>
+  <g font-size="12" fill="#6b7280">
+    <text x="160" y="352" text-anchor="middle">массы лежат на клетке,</text>
+    <text x="160" y="370" text-anchor="middle">оси расходятся наружу и вниз,</text>
+    <text x="160" y="388" text-anchor="middle">у грудины остаётся просвет</text>
+  </g>
+</svg>

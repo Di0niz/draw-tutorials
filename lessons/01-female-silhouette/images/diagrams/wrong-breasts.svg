@@ -1,0 +1,16 @@
+<svg width="320" height="430" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 430" font-family="Inter, sans-serif">
+  <g fill="none" stroke="#1f2328" stroke-width="3" stroke-linejoin="round">
+    <rect x="86" y="60" width="148" height="250" rx="6"/>
+    <circle cx="128" cy="180" r="34"/>
+    <circle cx="192" cy="180" r="34"/>
+  </g>
+  <g fill="#b91c1c">
+    <circle cx="128" cy="180" r="4.5"/>
+    <circle cx="192" cy="180" r="4.5"/>
+  </g>
+  <g font-size="12" fill="#6b7280">
+    <text x="160" y="352" text-anchor="middle">два круга на плоской доске,</text>
+    <text x="160" y="370" text-anchor="middle">оба смотрят строго вперёд,</text>
+    <text x="160" y="388" text-anchor="middle">клетки под ними нет</text>
+  </g>
+</svg>

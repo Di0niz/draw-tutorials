@@ -1,0 +1,15 @@
+<svg width="320" height="430" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 430" font-family="Inter, sans-serif">
+  <defs>
+    <path id="vase" d="M160 40 C210 40 214 120 208 170 C202 214 188 226 186 244 C188 272 210 300 214 344 C218 386 208 400 202 410"/>
+  </defs>
+  <g fill="none" stroke="#1f2328" stroke-width="3" stroke-linecap="round">
+    <use href="#vase"/>
+    <use href="#vase" transform="translate(320,0) scale(-1,1)"/>
+  </g>
+  <line x1="160" y1="30" x2="160" y2="416" stroke="#b91c1c" stroke-width="1.6" stroke-dasharray="6 6"/>
+  <g font-size="12" fill="#6b7280">
+    <text x="160" y="360" text-anchor="middle">обе стороны — одна и та же кривая,</text>
+    <text x="160" y="378" text-anchor="middle">зеркально отражённая:</text>
+    <text x="160" y="396" text-anchor="middle">силуэт читается как ваза</text>
+  </g>
+</svg>

@@ -1,0 +1,51 @@
+<svg width="440" height="830" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 830" font-family="Inter, sans-serif">
+  <defs>
+    <path id="half" d="M180 20 C202 20 218 40 218 66 C218 92 206 114 194 124 C193 138 194 146 200 152 C222 156 246 164 256 180 C262 192 258 206 250 216 C244 238 240 268 232 290 C228 302 226 308 224 314 C236 330 250 348 254 372 C256 400 250 430 246 452 C242 490 236 540 230 574 C226 600 224 620 222 640 C220 670 214 700 208 724 C206 742 204 758 203 772 L213 792 L188 794 C188 768 189 748 189 728 C191 698 193 660 191 620 C189 560 186 480 184 420 L180 412"/>
+  </defs>
+
+  <style>
+    .lbl { font-size: 14px; fill: #1f2328 }
+    .sub { font-size: 12px; fill: #6b7280 }
+    .lead { stroke: #c9c2b4; stroke-width: 1.4 }
+  </style>
+
+  <g fill="none" stroke="#e0dacd" stroke-width="2">
+    <use href="#half"/>
+    <use href="#half" transform="translate(360,0) scale(-1,1)"/>
+  </g>
+
+  <g fill="none" stroke="#1f2328" stroke-width="2.6" stroke-linejoin="round">
+    <ellipse cx="180" cy="234" rx="54" ry="62"/>
+    <path d="M148 282 L180 300 L212 282"/>
+    <path d="M162 128 L162 172 M198 128 L198 172"/>
+    <path d="M122 338 L238 338 L214 434 L196 410 L180 424 L164 410 L146 434 Z"/>
+  </g>
+
+  <g stroke="#b4530a" stroke-width="2.6" fill="#b4530a">
+    <line x1="108" y1="186" x2="252" y2="174"/>
+    <circle cx="108" cy="186" r="4"/>
+    <circle cx="252" cy="174" r="4"/>
+    <line x1="118" y1="336" x2="242" y2="346"/>
+    <circle cx="118" cy="336" r="4"/>
+    <circle cx="242" cy="346" r="4"/>
+    <path d="M180 300 C176 316 176 326 180 338" fill="none" stroke-dasharray="5 5"/>
+  </g>
+
+  <g>
+    <line class="lead" x1="234" y1="234" x2="286" y2="234"/>
+    <text class="lbl" x="292" y="230">грудная клетка</text>
+    <text class="sub" x="292" y="248">яйцо, сужено кверху</text>
+
+    <line class="lead" x1="238" y1="386" x2="286" y2="386"/>
+    <text class="lbl" x="292" y="382">таз</text>
+    <text class="sub" x="292" y="400">коробка, у́же клетки</text>
+
+    <line class="lead" x1="198" y1="146" x2="286" y2="146"/>
+    <text class="lbl" x="292" y="142">шея</text>
+    <text class="sub" x="292" y="160">цилиндр, наклонён вперёд</text>
+
+    <text class="lbl" x="20" y="470" fill="#b4530a">оси плеч и таза</text>
+    <text class="sub" x="20" y="488">идут в разные стороны,</text>
+    <text class="sub" x="20" y="506">между ними — мягкая талия</text>
+  </g>
+</svg>
