@@ -74,7 +74,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Отметки локтя, запястья и кончиков пальцев на фигуре](./images/diagrams/arm-landmarks.svg)
+![Отметки локтя, запястья и кончиков пальцев на фигуре](./images/diagrams/arm-landmarks.png)
 
 </div>
 
@@ -96,7 +96,7 @@ goal: на 3 листах из 4 мерка лица укладывается в
 
 ::reference::
 
-![Мерка «кисть равна лицу»](./images/diagrams/hand-face-measure.svg)
+![Мерка «кисть равна лицу»](./images/diagrams/hand-face-measure.png)
 
 ---
 layout: default
@@ -110,7 +110,7 @@ layout: default
 
 <div class="fig-tall">
 
-![Коробка ладони: тыл, ребро, ладонная сторона](./images/diagrams/palm-box.svg)
+![Коробка ладони: тыл, ребро, ладонная сторона](./images/diagrams/palm-box.png)
 
 </div>
 
@@ -132,7 +132,7 @@ goal: у всех трёх коробок виден торец, толщина 
 
 ::reference::
 
-![Три вида коробки ладони](./images/diagrams/palm-box.svg)
+![Три вида коробки ладони](./images/diagrams/palm-box.png)
 
 ---
 layout: compare
@@ -144,11 +144,11 @@ layout: compare
 
 ::wrong::
 
-![Ладонь как плоская лепёшка](./images/diagrams/wrong-flat-palm.svg)
+![Ладонь как плоская лепёшка](./images/diagrams/wrong-flat-palm.png)
 
 ::right::
 
-![Ладонь как коробка с торцами](./images/diagrams/right-box-palm.svg)
+![Ладонь как коробка с торцами](./images/diagrams/right-box-palm.png)
 
 ---
 layout: default
@@ -162,7 +162,7 @@ layout: default
 
 <div class="fig-tall">
 
-![Клин большого пальца и его плоскость](./images/diagrams/thumb-wedge.svg)
+![Клин большого пальца и его плоскость](./images/diagrams/thumb-wedge.png)
 
 </div>
 
@@ -183,7 +183,7 @@ goal: основание большого начинается у запясть
 
 ::reference::
 
-![Посадка большого пальца](./images/diagrams/thumb-wedge.svg)
+![Посадка большого пальца](./images/diagrams/thumb-wedge.png)
 
 ---
 layout: compare
@@ -195,11 +195,11 @@ layout: compare
 
 ::wrong::
 
-![Большой растёт от костяшки указательного и лежит в одной плоскости с остальными](./images/diagrams/wrong-thumb-front.svg)
+![Большой растёт от костяшки указательного и лежит в одной плоскости с остальными](./images/diagrams/wrong-thumb-front.png)
 
 ::right::
 
-![Большой растёт от запястья и стоит в своей плоскости](./images/diagrams/right-thumb-side.svg)
+![Большой растёт от запястья и стоит в своей плоскости](./images/diagrams/right-thumb-side.png)
 
 ---
 layout: default
@@ -213,7 +213,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Три дуги суставов и веер пальцев](./images/diagrams/finger-arcs.svg)
+![Три дуги суставов и веер пальцев](./images/diagrams/finger-arcs.png)
 
 </div>
 
@@ -235,7 +235,7 @@ goal: все три линии — дуги, а не прямые, и верши
 
 ::reference::
 
-![Дуги суставов и веер](./images/diagrams/finger-arcs.svg)
+![Дуги суставов и веер](./images/diagrams/finger-arcs.png)
 
 ---
 layout: compare
@@ -247,11 +247,11 @@ layout: compare
 
 ::wrong::
 
-![Одинаковые пальцы, суставы по прямой](./images/diagrams/wrong-sausages.svg)
+![Одинаковые пальцы, суставы по прямой](./images/diagrams/wrong-sausages.png)
 
 ::right::
 
-![Веер из общего центра, суставы на дугах](./images/diagrams/right-fan.svg)
+![Веер из общего центра, суставы на дугах](./images/diagrams/right-fan.png)
 
 ---
 layout: default
@@ -263,7 +263,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Одна кисть с тыла и с ладони](./images/diagrams/palm-vs-back.svg)
+![Одна кисть с тыла и с ладони](./images/diagrams/palm-vs-back.png)
 
 </div>
 
@@ -277,7 +277,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Три стадии: жест, коробка, пальцы](./images/diagrams/build-stages.svg)
+![Три стадии: жест, коробка, пальцы](./images/diagrams/build-stages.png)
 
 </div>
 
@@ -302,7 +302,7 @@ goal: ось проходит от предплечья до кончика ср
 
 ::reference::
 
-![Жест кисти одной осью](./images/diagrams/gesture-axis.svg)
+![Жест кисти одной осью](./images/diagrams/gesture-axis.png)
 
 ---
 layout: drill
@@ -322,7 +322,7 @@ goal: три листа за 30 минут, ладонь и пальцы рав�
 
 ::reference::
 
-![Кисть в ракурсе, сегменты со ступенькой](./images/diagrams/foreshortening.svg)
+![Кисть в ракурсе, сегменты со ступенькой](./images/diagrams/foreshortening.png)
 
 ---
 layout: checkpoint
