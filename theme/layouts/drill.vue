@@ -66,9 +66,10 @@ header {
 }
 
 .reference :deep(img) {
-  max-height: 100%;
+  flex: 1;
+  min-height: 0;
   max-width: 100%;
-  width: auto;
+  object-fit: contain;
 }
 
 footer {

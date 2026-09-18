@@ -107,7 +107,9 @@ goal: 8 листов из 10 — одна непрерывная дуга чер
 
 ::reference::
 
-![Линия действия](./images/diagrams/gesture.svg)
+![Набросок фигуры углём, видна линия действия](./images/ref/gesture-master.jpg)
+
+<div class="lesson-caption">Эдгар Дега, набросок танцовщицы у станка. The Met, Open Access (CC0)</div>
 
 ---
 layout: drill
@@ -163,7 +165,9 @@ goal: середина фигуры попадает в диапазон 3½–4
 
 ::reference::
 
-![Разметка фигуры по головам](./images/diagrams/proportions.svg)
+![Таблица пропорций: фигура разграфлена на головы](./images/ref/proportions-plate.jpg)
+
+<div class="lesson-caption">Таблица пропорций, Wellcome Collection M0000428 (CC BY 4.0). Канон на ней — 8 голов, живая фигура чаще укладывается в 7,5: отметки в уроке даны по 7,5</div>
 
 ---
 layout: drill
@@ -216,7 +220,9 @@ goal: в 5 набросках из 6 оси плеч и таза непарал�
 
 ::reference::
 
-![Две массы и оси](./images/diagrams/masses.svg)
+![Костная основа торса: грудная клетка и таз](./images/ref/torso-anatomy.jpg)
+
+<div class="lesson-caption">Ф. Дж. Моуат, атлас анатомических таблиц. Wellcome Collection L0067225 (CC BY 4.0)</div>
 
 ---
 layout: drill
@@ -341,7 +347,9 @@ goal: ни на одном уровне обе стороны не повтор�
 
 ::reference::
 
-![Чередование прямой и круглой стороны](./images/diagrams/rhythm.svg)
+![Академический рисунок женской фигуры со спины](./images/ref/master-figure.jpg)
+
+<div class="lesson-caption">Пьер-Поль Прюдон, штудия фигуры со спины. Public domain. Проследи по ней, как чередуются спокойная и круглая стороны</div>
 
 ---
 layout: drill
@@ -409,7 +417,9 @@ goal: отвес попадает на опорную стопу 3 раза из
 
 ::reference::
 
-![Отвес от ямки между ключицами](./images/diagrams/contrapposto.svg)
+![Античная статуя в контрапосте](./images/ref/contrapposto.jpg)
+
+<div class="lesson-caption">Афродита капитолийского типа, Skulpturensammlung Dresden Hm 308. Фото Mark Landon (CC BY 4.0)</div>
 
 ---
 layout: drill
@@ -468,7 +478,7 @@ goal: пропорции копии совпадают с оригиналом �
 
 # Копия мастера
 
-1. Возьми любой рисунок фигуры старого мастера
+1. Бери рисунок справа или любой другой рисунок фигуры старого мастера
 2. Строй его теми же четырьмя стадиями, не обводя контур
 3. Сначала найди в чужом рисунке линию действия и оси — они там есть
 4. Сверь пропорции измерением, а не на глаз
@@ -478,6 +488,12 @@ goal: пропорции копии совпадают с оригиналом �
 <Tip source="Роберт Грин, «Мастерство»">
 Ученичество идёт раньше собственного почерка. Копируя мастера, ты забираешь не картинку, а порядок его действий.
 </Tip>
+
+::reference::
+
+![Академический рисунок женской фигуры со спины](./images/ref/master-figure.jpg)
+
+<div class="lesson-caption">Пьер-Поль Прюдон, штудия фигуры со спины. Public domain</div>
 
 ---
 layout: checkpoint
@@ -515,3 +531,19 @@ layout: default
 <!--
 Лог практики: дата, минуты, что не получилось. Без лога не видно, какой день пропускается систематически.
 -->
+
+---
+layout: default
+---
+
+# Источники картинок
+
+Схемы построений нарисованы для этого гайда. Референсы взяты из открытых коллекций:
+
+- **Эдгар Дега**, набросок танцовщицы у станка — The Metropolitan Museum of Art, Open Access (CC0)
+- **Пьер-Поль Прюдон**, штудия женской фигуры со спины — public domain
+- **Афродита капитолийского типа**, Skulpturensammlung Dresden Hm 308, фото Mark Landon — CC BY 4.0
+- **Таблица пропорций женской фигуры**, Wellcome Collection M0000428 — CC BY 4.0
+- **Ф. Дж. Моуат**, «An atlas of anatomical plates of the human body», таблица костей торса, Wellcome Collection L0067225 — CC BY 4.0
+
+Ссылки на страницы источников — в `images/attribution.md` рядом с уроком.

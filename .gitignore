@@ -6,4 +6,3 @@ dist/
 books/*.pdf
 lessons/*/dist/
 lessons/*/shots/
-lessons/*/images/ref/
