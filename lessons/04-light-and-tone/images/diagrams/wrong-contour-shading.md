@@ -1,45 +1,34 @@
-# wrong-contour-shading / right-form-shading
+# wrong-contour-shading
 
-Пара для страницы «Ошибка: тон вдоль контура», лейаут `compare`. Обе картинки
-одного размера и с одним предметом, иначе сравнение не работает.
-
-## wrong-contour-shading
+Пара с `right-form-shading` для страницы «Ошибка: тон вдоль контура», лейаут
+`compare`. Левая картинка — ошибка. Обе рисуются в одном масштабе и с одним
+предметом, иначе сравнение не работает.
 
 **Что изображено.** Шар, у которого тон положен каймой вдоль контура: тёмная
-полоса идёт по краю силуэта, внутри формы пусто. Границы света и тени нет.
+полоса штрихов идёт по краю силуэта, внутри формы пусто. Границы света и тени
+нет. Направление света по рисунку определить невозможно.
 
 **Обязательно видно:** тон повторяет линию контура; центр формы остался белым;
-направление света по рисунку определить невозможно.
+штрих идёт вдоль обвода, а не поперёк объёма; направление света не читается.
 
-**Чего быть не должно:** терминатора, рефлекса, падающей тени. Здесь их нет
-намеренно, это и есть ошибка.
+**Чего быть не должно:** терминатора, рефлекса, падающей тени, стрелки света.
+Здесь их нет намеренно, это и есть ошибка. Встроенных слов и цифр нет.
 
-## right-form-shading
+**Кадр:** вертикальный, примерно 3:4, одинаковый с `right-form-shading`.
 
-**Что изображено.** Тот же шар под светом слева сверху. Стрелка направления
-луча в углу. Тень лежит крестообразной штриховкой поперёк формы, занимает
-теневую часть диска, граница света и тени проходит внутри формы и касается
-контура только в двух точках. У нижнего края внутри тени светлеет рефлекс.
+**Статус:** `wrong-contour-shading.png` — карандашная пластина в стиле
+`templates/illustration-style.md`. Ошибочный лист: штрих вдоль контура.
+Не заглушка.
 
-**Обязательно видно:** штрих идёт поперёк формы, а не вдоль края; граница
-света и тени внутри диска; обводки по теневой стороне нет; рефлекс светлее
-основного тона тени.
+**Промпт для отрисовки.** Общий префикс из `templates/illustration-style.md`
+плюс:
 
-**Кадр обеих:** вертикальный, примерно 3:4, одинаковый для пары.
-
-**Статус:** обе — временные векторные заглушки, подлежат замене. Штриховка
-сделана паттерном, в карандашной версии она должна идти дугами по форме.
-
-**Промпт для отрисовки.** Общий префикс из `templates/illustration-style.md`,
-но с прямой оговоркой: в этом уроке тон разрешён и обязателен, правило
-«no shading» из префикса не применяется. Дальше:
-
-> Two-panel comparison sheet, same sphere and same size in both panels. LEFT
-> panel, the mistake: tone laid as a dark band hugging the outline of the
-> sphere, the interior left blank, no terminator anywhere, the light direction
-> unreadable. RIGHT panel: the same sphere lit from the upper left with a small
-> arrow marking the ray. One large shadow shape hatched across the form, the
-> light-shadow boundary running inside the disc and touching the contour at
-> only two points, a lighter reflected light along the lower inner edge of the
-> shadow, and no outline drawn on the shadow side. Graphite hatching, no
-> smudging, white background.
+> This sheet is a still-life of one geometric volume, not a figure: from the
+> prefix keep the graphite line hierarchy and the clean white ground, and ignore
+> the mannequin description. A pedagogical MISTAKE plate. One large white
+> sphere, the same size as on the matching correct plate. Tone is laid as a
+> dark graphite band hugging the outline of the sphere: short strokes follow
+> the contour like a ring, the interior left blank and white. There is no
+> terminator, no form shadow, no cast shadow, no light arrow, no reflected
+> light. The light direction is unreadable. The sphere stays a flat circle.
+> Graphite hatching, no smudging, no labels, no numerals, white background.
