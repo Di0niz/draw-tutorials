@@ -73,7 +73,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Грудная клетка спереди и сбоку, гнутая передняя поверхность](./images/diagrams/chest-base.svg)
+![Грудная клетка спереди и сбоку, гнутая передняя поверхность](./images/diagrams/chest-base.png)
 
 </div>
 
@@ -89,7 +89,7 @@ layout: default
 
 <div class="fig-tall">
 
-![Границы посадки на клетке и направление осей](./images/diagrams/footprint.svg)
+![Границы посадки на клетке и направление осей](./images/diagrams/footprint.png)
 
 </div>
 
@@ -105,7 +105,7 @@ layout: default
 
 <div class="fig-tall">
 
-![Профиль формы: верхний скат и нижняя дуга](./images/diagrams/form-profile.svg)
+![Профиль формы: верхний скат и нижняя дуга](./images/diagrams/form-profile.png)
 
 </div>
 
@@ -121,7 +121,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Фас, три четверти и профиль одной натуры](./images/diagrams/three-views.svg)
+![Фас, три четверти и профиль одной натуры](./images/diagrams/three-views.png)
 
 </div>
 
@@ -133,7 +133,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Три стадии: клетка, след и оси, масса и сосок](./images/diagrams/build-stages.svg)
+![Три стадии: клетка, след и оси, масса и сосок](./images/diagrams/build-stages.png)
 
 </div>
 
@@ -162,7 +162,7 @@ goal: у грудины просвет, след шире массы, оси н�
 
 ::reference::
 
-![Границы посадки и оси](./images/diagrams/footprint.svg)
+![Границы посадки и оси](./images/diagrams/footprint.png)
 
 ---
 layout: drill
@@ -182,7 +182,7 @@ goal: во всех трёх ракурсах сосок остаётся на �
 
 ::reference::
 
-![Одна натура с трёх точек](./images/diagrams/three-views.svg)
+![Одна натура с трёх точек](./images/diagrams/three-views.png)
 
 ---
 layout: compare
@@ -194,11 +194,11 @@ layout: compare
 
 ::wrong::
 
-![Два одинаковых круга на плоском торсе](./images/diagrams/wrong-spheres.svg)
+![Два одинаковых круга на плоском торсе](./images/diagrams/wrong-spheres.png)
 
 ::right::
 
-![Массы, посаженные на построенную клетку](./images/diagrams/right-masses.svg)
+![Массы, посаженные на построенную клетку](./images/diagrams/right-masses.png)
 
 ---
 layout: default
@@ -212,7 +212,7 @@ layout: default
 
 <div class="fig-wide">
 
-![Опущенные руки, поднятые руки, наклон вперёд](./images/diagrams/pose-change.svg)
+![Опущенные руки, поднятые руки, наклон вперёд](./images/diagrams/pose-change.png)
 
 </div>
 
@@ -234,7 +234,7 @@ goal: три рисунка отличаются формой, а не толь�
 
 ::reference::
 
-![Три позы и три разные формы](./images/diagrams/pose-change.svg)
+![Три позы и три разные формы](./images/diagrams/pose-change.png)
 
 ---
 layout: compare
@@ -246,11 +246,11 @@ layout: compare
 
 ::wrong::
 
-![Обе массы зеркальны друг другу](./images/diagrams/wrong-symmetric.svg)
+![Обе массы зеркальны друг другу](./images/diagrams/wrong-symmetric.png)
 
 ::right::
 
-![Дальняя масса сокращена и уходит за силуэт](./images/diagrams/right-varied.svg)
+![Дальняя масса сокращена и уходит за силуэт](./images/diagrams/right-varied.png)
 
 ---
 layout: default
@@ -264,7 +264,7 @@ layout: default
 
 <div class="fig-tall">
 
-![Одна большая тень, рефлекс снизу, сосок в полутоне](./images/diagrams/shading.svg)
+![Одна большая тень, рефлекс снизу, сосок в полутоне](./images/diagrams/shading.png)
 
 </div>
 
@@ -287,7 +287,7 @@ goal: сосок не темнее самой тёмной части тенев
 
 ::reference::
 
-![Тон одной тенью](./images/diagrams/shading.svg)
+![Тон одной тенью](./images/diagrams/shading.png)
 
 ---
 layout: checkpoint
@@ -327,8 +327,8 @@ layout: default
 
 # Схемы и источники
 
-Все схемы урока нарисованы для него же и лежат в `images/diagrams/`. Рядом с каждой лежит файл с описанием рисунка: что изображено, что обязано быть видно, чего быть не должно, и промпт для отрисовки.
+Все схемы урока нарисованы для него же и лежат в `images/diagrams/` как карандашные PNG. Рядом с каждой лежит файл с описанием рисунка: что изображено, что обязано быть видно, чего быть не должно, и промпт для отрисовки.
 
-Стиль иллюстраций задан в `templates/illustration-style.md`. Текущие схемы — временные векторные заглушки, они помечены в описаниях и подлежат замене на карандашные пластины.
+Стиль иллюстраций задан в `templates/illustration-style.md`. Штрих по форме есть только на пластине `shading.png` — это единственная схема урока про тон.
 
-Найденных референсов в этом уроке пока нет. Что именно нужно найти и под какой лицензией — в `images/ref/README.md`.
+Референсы в `images/ref/`: академическая штудия Etty (три четверти) и таблица pectoralis major из Gray's Anatomy. Профильной штудии старого мастера пока нет — лицензии не выдумываем. Полная таблица — в `images/attribution.md`.
